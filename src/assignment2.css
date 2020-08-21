@@ -1,0 +1,22 @@
+
+.textbox{
+	border:2px solid black;
+	width: 250px;
+	height: 30px;
+	margin-top: 50px;
+	margin-left: 80px;
+}
+label{
+	font-size: 40px;
+	padding-left: 400px;
+}
+.main h1{
+	font-size: 35px;
+	 font-family:Californian FB;
+	 padding-left: 450px;
+}
+.main p{
+	font-size: 30px;
+	 font-family:Californian FB;
+	 padding-left: 450px;
+}
